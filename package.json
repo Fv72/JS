@@ -1,0 +1,14 @@
+{
+    "name": "exenode",
+    "version": "1.0.0",
+    "description": "tuto node",
+    "main": "node.js",
+    "scripts": {
+        "test": "nodemon node.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dateformat": "^4.5.0"
+    }
+}
